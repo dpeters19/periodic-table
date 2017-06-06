@@ -1,6 +1,6 @@
 class Atom:
     def __init__(self, name, symbol, atomic_number, atomic_weight, density, molar_volume, valence, electronegativity,
-                 electron_affinity, atomic_radius, covalent_radius, van_der_waals_radius, half_life):
+                 electron_affinity, atomic_radius, covalent_radius, van_der_waals_radius, half_life, ionization_energy=[]):
         self.name = name
         self.symbol = symbol
         self.atomic_number = atomic_number
@@ -16,4 +16,4 @@ class Atom:
         self.half_life = half_life
         # self.known_isotopes = []
         # self.stable_isotopes = []
-        # ionization_energy = []
+        self.ionization_energy = ionization_energy

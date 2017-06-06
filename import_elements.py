@@ -1,5 +1,6 @@
 import json
 import re
+
 import Atom
 import simple_api_wrapper
 
@@ -25,7 +26,7 @@ def convert_to_years(string):
     return number
 
 
-for x in range(110, 119):
+for x in range(114, 119):
     x = str(x)
     name = query("element " + x)
 
@@ -70,33 +71,39 @@ for x in range(110, 119):
         density = -1
     else:
         density = float(re.sub('×\d{1,}\^', 'e', re.sub('[^0-9×^\-\.]', "", density)))
+
     if molar_volume == "No short answer available":
         molar_volume = -1
     else:
         molar_volume = float(strip_non_numbers(molar_volume))
-    if valence == "No short answer available":
+
+    if valence == "No short answer available" or valence == "unknown":
         valence = -1
     else:
         valence = int(valence)
+
     if electronegativity == "No short answer available":
         electronegativity = -1
-    if electron_affinity == "No short answer available":
-        electron_affinity = -1
+
     else:
         electron_affinity = float(strip_non_numbers(electron_affinity))
+
     if atomic_radius == "No short answer available":
         atomic_radius = -1
     else:
         atomic_radius = int(strip_non_numbers(atomic_radius))
-    if covalent_radius == "No short answer available":
+
+    if covalent_radius == "No short answer available" or "unknown":
         covalent_radius = -1
     else:
         covalent_radius = int(strip_non_numbers(covalent_radius))
-    if van_der_waals_radius == "No short answer available":
+
+    if van_der_waals_radius == "No short answer available" or van_der_waals_radius == "unknown":
         van_der_waals_radius = -1
     else:
         van_der_waals_radius = int(strip_non_numbers(van_der_waals_radius))
-    if half_life == "{}":
+
+    if half_life == "{}" or half_life == "stable":
         half_life = -1
     else:
         half_life = float(convert_to_years(half_life))

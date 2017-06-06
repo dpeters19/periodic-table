@@ -12,7 +12,10 @@
     "atomic_radius": 25,
     "covalent_radius": 31,
     "van_der_waals_radius": 120,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      13.59844
+    ]
   },
   {
     "name": "Helium",
@@ -27,7 +30,11 @@
     "atomic_radius": 31,
     "covalent_radius": 28,
     "van_der_waals_radius": 140,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      24.58741,
+      54.41778
+    ]
   },
   {
     "name": "Lithium",
@@ -42,7 +49,12 @@
     "atomic_radius": 145,
     "covalent_radius": 128,
     "van_der_waals_radius": 182,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      5.39172,
+      75.64018,
+      122.45429
+    ]
   },
   {
     "name": "Beryllium",
@@ -57,7 +69,13 @@
     "atomic_radius": 105,
     "covalent_radius": 96,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      9.3227,
+      18.21116,
+      153.89661,
+      217.71865
+    ]
   },
   {
     "name": "Boron",
@@ -72,7 +90,14 @@
     "atomic_radius": 85,
     "covalent_radius": 84,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      8.29803,
+      25.15484,
+      37.93064,
+      259.37521,
+      340.2258
+    ]
   },
   {
     "name": "Carbon",
@@ -87,7 +112,15 @@
     "atomic_radius": 70,
     "covalent_radius": 76,
     "van_der_waals_radius": 170,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      11.2603,
+      24.38332,
+      47.8878,
+      64.4939,
+      392.087,
+      489.99334
+    ]
   },
   {
     "name": "Nitrogen",
@@ -102,7 +135,16 @@
     "atomic_radius": 65,
     "covalent_radius": 71,
     "van_der_waals_radius": 155,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      14.53414,
+      29.6013,
+      47.44924,
+      77.4735,
+      97.8902,
+      552.0718,
+      667.046
+    ]
   },
   {
     "name": "Oxygen",
@@ -117,7 +159,17 @@
     "atomic_radius": 60,
     "covalent_radius": 66,
     "van_der_waals_radius": 152,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      13.61806,
+      35.1173,
+      54.9355,
+      77.41353,
+      113.899,
+      138.1197,
+      739.29,
+      871.4101
+    ]
   },
   {
     "name": "Fluorine",
@@ -132,7 +184,18 @@
     "atomic_radius": 50,
     "covalent_radius": 57,
     "van_der_waals_radius": 147,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      17.42282,
+      34.97082,
+      62.7084,
+      87.1398,
+      114.2428,
+      157.1651,
+      185.186,
+      953.9112,
+      1103.1176
+    ]
   },
   {
     "name": "Neon",
@@ -147,7 +210,19 @@
     "atomic_radius": 38,
     "covalent_radius": 58,
     "van_der_waals_radius": 154,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      21.5646,
+      40.96328,
+      63.45,
+      97.12,
+      126.21,
+      157.93,
+      207.2759,
+      239.0989,
+      1195.8286,
+      1362.1995
+    ]
   },
   {
     "name": "Sodium",
@@ -162,7 +237,20 @@
     "atomic_radius": 180,
     "covalent_radius": 166,
     "van_der_waals_radius": 227,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      5.13908,
+      47.2864,
+      71.62,
+      98.91,
+      138.4,
+      172.18,
+      208.5,
+      264.25,
+      299.864,
+      1465.121,
+      1648.702
+    ]
   },
   {
     "name": "Magnesium",
@@ -177,7 +265,21 @@
     "atomic_radius": 150,
     "covalent_radius": 141,
     "van_der_waals_radius": 173,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      7.64624,
+      15.03528,
+      80.1437,
+      109.2655,
+      141.27,
+      186.76,
+      225.02,
+      265.96,
+      328.06,
+      367.5,
+      1761.805,
+      1962.665
+    ]
   },
   {
     "name": "Aluminum",
@@ -192,7 +294,22 @@
     "atomic_radius": 125,
     "covalent_radius": 121,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      5.98577,
+      18.82856,
+      28.44765,
+      119.992,
+      153.825,
+      190.49,
+      241.76,
+      284.66,
+      330.13,
+      398.75,
+      442.0,
+      2085.98,
+      2304.141
+    ]
   },
   {
     "name": "Silicon",
@@ -207,7 +324,23 @@
     "atomic_radius": 110,
     "covalent_radius": 111,
     "van_der_waals_radius": 210,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      8.15169,
+      16.34585,
+      33.49302,
+      45.14181,
+      166.767,
+      205.27,
+      246.5,
+      303.54,
+      351.12,
+      401.37,
+      476.36,
+      523.42,
+      2437.63,
+      2673.182
+    ]
   },
   {
     "name": "Phosphorus",
@@ -222,7 +355,24 @@
     "atomic_radius": 100,
     "covalent_radius": 107,
     "van_der_waals_radius": 180,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      10.48669,
+      19.7694,
+      30.2027,
+      51.4439,
+      65.0251,
+      220.421,
+      263.57,
+      309.6,
+      372.13,
+      424.4,
+      479.46,
+      560.8,
+      611.74,
+      2816.91,
+      3069.842
+    ]
   },
   {
     "name": "Sulfur",
@@ -237,7 +387,25 @@
     "atomic_radius": 100,
     "covalent_radius": 105,
     "van_der_waals_radius": 180,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      10.36001,
+      23.3379,
+      34.79,
+      47.222,
+      72.5945,
+      88.053,
+      280.948,
+      328.75,
+      379.55,
+      447.5,
+      504.8,
+      564.44,
+      652.2,
+      707.01,
+      3223.78,
+      3494.1892
+    ]
   },
   {
     "name": "Chlorine",
@@ -252,7 +420,26 @@
     "atomic_radius": 100,
     "covalent_radius": 102,
     "van_der_waals_radius": 175,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      12.96764,
+      23.814,
+      39.61,
+      53.4652,
+      67.8,
+      97.03,
+      114.1958,
+      348.28,
+      400.06,
+      455.63,
+      529.28,
+      591.99,
+      656.71,
+      749.76,
+      809.4,
+      3658.521,
+      3946.296
+    ]
   },
   {
     "name": "Argon",
@@ -267,7 +454,27 @@
     "atomic_radius": 71,
     "covalent_radius": 106,
     "van_der_waals_radius": 188,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      15.75962,
+      27.62967,
+      40.74,
+      59.81,
+      75.02,
+      91.009,
+      124.323,
+      143.46,
+      422.45,
+      478.69,
+      538.96,
+      618.26,
+      686.1,
+      755.74,
+      854.77,
+      918.03,
+      4120.8857,
+      4426.2296
+    ]
   },
   {
     "name": "Potassium",
@@ -282,7 +489,28 @@
     "atomic_radius": 220,
     "covalent_radius": 203,
     "van_der_waals_radius": 275,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      4.34066,
+      31.63,
+      45.806,
+      60.91,
+      82.66,
+      99.4,
+      117.56,
+      154.88,
+      175.8174,
+      503.8,
+      564.7,
+      629.4,
+      714.6,
+      786.6,
+      861.1,
+      968.0,
+      1033.4,
+      4610.8,
+      4934.046
+    ]
   },
   {
     "name": "Calcium",
@@ -297,7 +525,29 @@
     "atomic_radius": 180,
     "covalent_radius": 176,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      6.11316,
+      11.87172,
+      50.9131,
+      67.27,
+      84.5,
+      108.78,
+      127.2,
+      147.24,
+      188.54,
+      211.275,
+      591.9,
+      657.2,
+      726.6,
+      817.6,
+      894.5,
+      974.0,
+      1087.0,
+      1157.8,
+      5128.8,
+      5469.864
+    ]
   },
   {
     "name": "Scandium",
@@ -312,7 +562,30 @@
     "atomic_radius": 160,
     "covalent_radius": 170,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      6.5615,
+      12.79967,
+      24.75666,
+      73.4894,
+      91.65,
+      110.68,
+      138.0,
+      158.1,
+      180.03,
+      225.18,
+      249.798,
+      687.36,
+      756.7,
+      830.8,
+      927.5,
+      1009.0,
+      1094.0,
+      1213.0,
+      1287.97,
+      5674.8,
+      6033.712
+    ]
   },
   {
     "name": "Titanium",
@@ -327,7 +600,31 @@
     "atomic_radius": 140,
     "covalent_radius": 160,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      6.8281,
+      13.5755,
+      27.4917,
+      43.2672,
+      99.3,
+      119.53,
+      140.8,
+      170.4,
+      192.1,
+      215.92,
+      265.07,
+      291.5,
+      787.84,
+      863.1,
+      941.9,
+      1044.0,
+      1131.0,
+      1221.0,
+      1346.0,
+      1425.4,
+      6249.0,
+      6625.82
+    ]
   },
   {
     "name": "Vanadium",
@@ -342,7 +639,32 @@
     "atomic_radius": 135,
     "covalent_radius": 153,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      6.7462,
+      14.66,
+      29.311,
+      46.709,
+      65.2817,
+      128.13,
+      150.6,
+      173.4,
+      205.8,
+      230.5,
+      255.7,
+      308.1,
+      336.277,
+      896.0,
+      976.0,
+      1060.0,
+      1168.0,
+      1260.0,
+      1355.0,
+      1486.0,
+      1569.6,
+      6851.3,
+      7246.12
+    ]
   },
   {
     "name": "Chromium",
@@ -357,7 +679,33 @@
     "atomic_radius": 140,
     "covalent_radius": 139,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      6.7665,
+      16.4857,
+      30.96,
+      49.16,
+      69.46,
+      90.6349,
+      160.18,
+      184.7,
+      209.3,
+      244.4,
+      270.8,
+      298.0,
+      354.8,
+      384.168,
+      1010.6,
+      1097.0,
+      1185.0,
+      1299.0,
+      1396.0,
+      1496.0,
+      1634.0,
+      1721.4,
+      7481.7,
+      7894.81
+    ]
   },
   {
     "name": "Manganese",
@@ -372,7 +720,34 @@
     "atomic_radius": 140,
     "covalent_radius": 139,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      7.43402,
+      15.63999,
+      33.668,
+      51.2,
+      72.4,
+      95.6,
+      119.203,
+      194.5,
+      221.8,
+      248.3,
+      286.0,
+      314.4,
+      343.6,
+      403.0,
+      435.163,
+      1134.7,
+      1224.0,
+      1317.0,
+      1437.0,
+      1539.0,
+      1644.0,
+      1788.0,
+      1879.9,
+      8140.6,
+      8571.94
+    ]
   },
   {
     "name": "Iron",
@@ -387,7 +762,35 @@
     "atomic_radius": 140,
     "covalent_radius": 132,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      7.9024,
+      16.1878,
+      30.652,
+      54.8,
+      75.0,
+      99.1,
+      124.98,
+      151.06,
+      233.6,
+      262.1,
+      290.2,
+      330.8,
+      361.0,
+      392.2,
+      457.0,
+      489.256,
+      1266.0,
+      1358.0,
+      1456.0,
+      1582.0,
+      1689.0,
+      1799.0,
+      1950.0,
+      2023.0,
+      8828.0,
+      9277.69
+    ]
   },
   {
     "name": "Cobalt",
@@ -402,7 +805,36 @@
     "atomic_radius": 135,
     "covalent_radius": 126,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      7.881,
+      17.083,
+      33.5,
+      51.3,
+      79.5,
+      102.0,
+      128.9,
+      157.8,
+      186.13,
+      275.4,
+      305.0,
+      336.0,
+      379.0,
+      411.0,
+      444.0,
+      511.96,
+      546.58,
+      1397.2,
+      1504.6,
+      1603.0,
+      1735.0,
+      1846.0,
+      1962.0,
+      2119.0,
+      2219.0,
+      9544.1,
+      10012.12
+    ]
   },
   {
     "name": "Nickel",
@@ -417,7 +849,37 @@
     "atomic_radius": 135,
     "covalent_radius": 124,
     "van_der_waals_radius": 163,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      7.6398,
+      18.16884,
+      35.19,
+      54.9,
+      76.06,
+      108.0,
+      133.0,
+      162.0,
+      193.0,
+      224.6,
+      321.0,
+      352.0,
+      384.0,
+      430.0,
+      464.0,
+      499.0,
+      571.08,
+      607.06,
+      1541.0,
+      1648.0,
+      1756.0,
+      1894.0,
+      2011.0,
+      2131.0,
+      2295.0,
+      2399.2,
+      10288.8,
+      10775.4
+    ]
   },
   {
     "name": "Copper",
@@ -432,7 +894,38 @@
     "atomic_radius": 135,
     "covalent_radius": 132,
     "van_der_waals_radius": 140,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      7.72638,
+      20.2924,
+      36.841,
+      57.38,
+      79.8,
+      103.0,
+      139.0,
+      166.0,
+      199.0,
+      232.0,
+      265.3,
+      369.0,
+      401.0,
+      435.0,
+      484.0,
+      520.0,
+      557.0,
+      633.0,
+      670.588,
+      1697.0,
+      1804.0,
+      1916.0,
+      2060.0,
+      2182.0,
+      2308.0,
+      2478.0,
+      2587.5,
+      11062.38,
+      11567.617
+    ]
   },
   {
     "name": "Zinc",
@@ -447,7 +940,30 @@
     "atomic_radius": 135,
     "covalent_radius": 122,
     "van_der_waals_radius": 139,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      9.3942,
+      17.9644,
+      39.723,
+      59.4,
+      82.6,
+      108.0,
+      134.0,
+      174.0,
+      203.0,
+      238.0,
+      274.0,
+      310.8,
+      419.7,
+      454.0,
+      490.0,
+      542.0,
+      579.0,
+      619.0,
+      698.0,
+      738.0,
+      1856.0
+    ]
   },
   {
     "name": "Gallium",
@@ -462,7 +978,13 @@
     "atomic_radius": 130,
     "covalent_radius": 122,
     "van_der_waals_radius": 187,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      5.9993,
+      20.5142,
+      30.71,
+      64.0
+    ]
   },
   {
     "name": "Germanium",
@@ -477,7 +999,14 @@
     "atomic_radius": 125,
     "covalent_radius": 120,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      7.8994,
+      15.93462,
+      34.2241,
+      45.7131,
+      93.5
+    ]
   },
   {
     "name": "Arsenic",
@@ -492,7 +1021,15 @@
     "atomic_radius": 115,
     "covalent_radius": 119,
     "van_der_waals_radius": 185,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      9.7886,
+      18.633,
+      28.351,
+      50.13,
+      62.63,
+      127.6
+    ]
   },
   {
     "name": "Selenium",
@@ -507,7 +1044,16 @@
     "atomic_radius": 115,
     "covalent_radius": 120,
     "van_der_waals_radius": 190,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      9.75238,
+      21.19,
+      30.8204,
+      42.945,
+      68.3,
+      81.7,
+      155.4
+    ]
   },
   {
     "name": "Bromine",
@@ -522,7 +1068,17 @@
     "atomic_radius": 115,
     "covalent_radius": 120,
     "van_der_waals_radius": 185,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      11.81381,
+      21.8,
+      36.0,
+      47.3,
+      59.7,
+      88.6,
+      103.0,
+      192.8
+    ]
   },
   {
     "name": "Krypton",
@@ -537,7 +1093,39 @@
     "atomic_radius": 88,
     "covalent_radius": 116,
     "van_der_waals_radius": 202,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      13.99961,
+      24.35985,
+      36.95,
+      52.5,
+      64.7,
+      78.5,
+      111.0,
+      125.802,
+      230.85,
+      268.2,
+      308.0,
+      350.0,
+      391.0,
+      447.0,
+      492.0,
+      541.0,
+      592.0,
+      641.0,
+      786.0,
+      833.0,
+      884.0,
+      937.0,
+      998.0,
+      1051.0,
+      1151.0,
+      1205.3,
+      2928.0,
+      3070.0,
+      3227.0,
+      3381.0
+    ]
   },
   {
     "name": "Rubidium",
@@ -552,7 +1140,19 @@
     "atomic_radius": 235,
     "covalent_radius": 220,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      4.17713,
+      27.285,
+      40.0,
+      52.6,
+      71.0,
+      84.4,
+      99.2,
+      136.0,
+      150.0,
+      277.1
+    ]
   },
   {
     "name": "Strontium",
@@ -567,7 +1167,20 @@
     "atomic_radius": 200,
     "covalent_radius": 195,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      5.6949,
+      11.03013,
+      42.89,
+      57.0,
+      71.6,
+      90.8,
+      106.0,
+      122.3,
+      162.0,
+      177.0,
+      324.1
+    ]
   },
   {
     "name": "Yttrium",
@@ -582,7 +1195,21 @@
     "atomic_radius": 180,
     "covalent_radius": 190,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      6.2171,
+      12.24,
+      20.52,
+      60.597,
+      77.0,
+      93.0,
+      116.0,
+      129.0,
+      146.2,
+      191.0,
+      206.0,
+      374.0
+    ]
   },
   {
     "name": "Zirconium",
@@ -597,7 +1224,14 @@
     "atomic_radius": 155,
     "covalent_radius": 175,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      6.6339,
+      13.13,
+      22.99,
+      34.34,
+      80.348
+    ]
   },
   {
     "name": "Niobium",
@@ -612,7 +1246,16 @@
     "atomic_radius": 145,
     "covalent_radius": 164,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      6.75885,
+      14.32,
+      25.04,
+      38.3,
+      50.55,
+      102.057,
+      125.0
+    ]
   },
   {
     "name": "Molybdenum",
@@ -627,7 +1270,39 @@
     "atomic_radius": 145,
     "covalent_radius": 154,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      7.09243,
+      16.16,
+      27.13,
+      46.4,
+      54.49,
+      68.8276,
+      125.664,
+      143.6,
+      164.12,
+      186.4,
+      209.3,
+      230.28,
+      279.1,
+      302.6,
+      544.0,
+      570.0,
+      636.0,
+      702.0,
+      767.0,
+      833.0,
+      902.0,
+      968.0,
+      1020.0,
+      1082.0,
+      1263.0,
+      1323.0,
+      1387.0,
+      1449.0,
+      1535.0,
+      1601.0
+    ]
   },
   {
     "name": "Technetium",
@@ -642,7 +1317,12 @@
     "atomic_radius": 135,
     "covalent_radius": 147,
     "van_der_waals_radius": -1,
-    "half_life": 210000.0
+    "half_life": 210000.0,
+    "ionization_energy": [
+      7.28,
+      15.26,
+      29.54
+    ]
   },
   {
     "name": "Ruthenium",
@@ -657,7 +1337,12 @@
     "atomic_radius": 130,
     "covalent_radius": 146,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      7.3605,
+      16.76,
+      28.47
+    ]
   },
   {
     "name": "Rhodium",
@@ -672,7 +1357,12 @@
     "atomic_radius": 135,
     "covalent_radius": 142,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      7.4589,
+      18.08,
+      31.06
+    ]
   },
   {
     "name": "Palladium",
@@ -687,7 +1377,12 @@
     "atomic_radius": 140,
     "covalent_radius": 139,
     "van_der_waals_radius": 163,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      8.3369,
+      19.43,
+      32.93
+    ]
   },
   {
     "name": "Silver",
@@ -702,7 +1397,12 @@
     "atomic_radius": 160,
     "covalent_radius": 145,
     "van_der_waals_radius": 172,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      7.5762,
+      21.49,
+      34.83
+    ]
   },
   {
     "name": "Cadmium",
@@ -717,7 +1417,12 @@
     "atomic_radius": 155,
     "covalent_radius": 144,
     "van_der_waals_radius": 158,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      8.9938,
+      16.90832,
+      37.48
+    ]
   },
   {
     "name": "Indium",
@@ -732,7 +1437,13 @@
     "atomic_radius": 155,
     "covalent_radius": 142,
     "van_der_waals_radius": 193,
-    "half_life": 1.0
+    "half_life": 1.0,
+    "ionization_energy": [
+      5.78636,
+      18.8698,
+      28.03,
+      54.0
+    ]
   },
   {
     "name": "Tin",
@@ -747,7 +1458,14 @@
     "atomic_radius": 145,
     "covalent_radius": 139,
     "van_der_waals_radius": 217,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      7.3439,
+      14.63225,
+      30.5026,
+      40.73502,
+      72.28
+    ]
   },
   {
     "name": "Antimony",
@@ -762,7 +1480,15 @@
     "atomic_radius": 145,
     "covalent_radius": 139,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      8.6084,
+      16.53051,
+      25.3,
+      44.2,
+      56.0,
+      108.0
+    ]
   },
   {
     "name": "Tellurium",
@@ -777,7 +1503,16 @@
     "atomic_radius": 140,
     "covalent_radius": 138,
     "van_der_waals_radius": 206,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      9.0096,
+      18.6,
+      27.96,
+      37.41,
+      58.75,
+      70.7,
+      137.0
+    ]
   },
   {
     "name": "Iodine",
@@ -792,7 +1527,12 @@
     "atomic_radius": 140,
     "covalent_radius": 139,
     "van_der_waals_radius": 198,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      10.45126,
+      19.1313,
+      33.0
+    ]
   },
   {
     "name": "Xenon",
@@ -807,7 +1547,117 @@
     "atomic_radius": 108,
     "covalent_radius": 1,
     "van_der_waals_radius": 1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      12.1298,
+      21.20979,
+      32.123
+    ]
+  },
+  {
+    "name": "Cesium",
+    "symbol": "Cs",
+    "atomic_number": 55,
+    "atomic_weight": 133.0,
+    "density": 1.88,
+    "molar_volume": 70.7,
+    "valence": 1,
+    "electronegativity": "0.79",
+    "electron_affinity": 45.5,
+    "atomic_radius": 260,
+    "covalent_radius": 244,
+    "van_der_waals_radius": -1,
+    "half_life": -1,
+    "ionization_energy": [
+      3.8939,
+      23.15745
+    ]
+  },
+  {
+    "name": "Barium",
+    "symbol": "Ba",
+    "atomic_number": 56,
+    "atomic_weight": 137.0,
+    "density": 3.51,
+    "molar_volume": 39.1,
+    "valence": 2,
+    "electronegativity": "0.89",
+    "electron_affinity": 13.9,
+    "atomic_radius": 215,
+    "covalent_radius": 215,
+    "van_der_waals_radius": -1,
+    "half_life": -1,
+    "ionization_energy": [
+      5.2117,
+      10.0039
+    ]
+  },
+  {
+    "name": "Lanthanum",
+    "symbol": "La",
+    "atomic_number": 57,
+    "atomic_weight": 139.0,
+    "density": 6.15,
+    "molar_volume": 22.6,
+    "valence": 3,
+    "electronegativity": "1.1",
+    "electron_affinity": 48.0,
+    "atomic_radius": 195,
+    "covalent_radius": 207,
+    "van_der_waals_radius": -1,
+    "half_life": -1,
+    "ionization_energy": [
+      5.5769,
+      11.06,
+      19.1773,
+      49.95,
+      61.6
+    ]
+  },
+  {
+    "name": "Cerium",
+    "symbol": "Ce",
+    "atomic_number": 58,
+    "atomic_weight": 140.0,
+    "density": 6.69,
+    "molar_volume": 20.9,
+    "valence": 4,
+    "electronegativity": "1.12",
+    "electron_affinity": 50.0,
+    "atomic_radius": 185,
+    "covalent_radius": 204,
+    "van_der_waals_radius": -1,
+    "half_life": -1,
+    "ionization_energy": [
+      5.5387,
+      10.85,
+      20.198,
+      36.758,
+      65.55,
+      77.6
+    ]
+  },
+  {
+    "name": "Praseodymium",
+    "symbol": "Pr",
+    "atomic_number": 59,
+    "atomic_weight": 141.0,
+    "density": 6.64,
+    "molar_volume": 21.2,
+    "valence": 4,
+    "electronegativity": "1.13",
+    "electron_affinity": 50.0,
+    "atomic_radius": 185,
+    "covalent_radius": 203,
+    "van_der_waals_radius": -1,
+    "half_life": -1,
+    "ionization_energy": [
+      5.473,
+      10.55,
+      21.624,
+      38.98,
+      57.53
+    ]
   },
   {
     "name": "Neodymium",
@@ -822,7 +1672,13 @@
     "atomic_radius": 185,
     "covalent_radius": 201,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      5.525,
+      10.73,
+      22.1,
+      40.41
+    ]
   },
   {
     "name": "Promethium",
@@ -837,7 +1693,13 @@
     "atomic_radius": 185,
     "covalent_radius": 199,
     "van_der_waals_radius": -1,
-    "half_life": 17.7
+    "half_life": 17.7,
+    "ionization_energy": [
+      5.582,
+      10.9,
+      22.3,
+      41.1
+    ]
   },
   {
     "name": "Samarium",
@@ -852,7 +1714,13 @@
     "atomic_radius": 185,
     "covalent_radius": 198,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      5.6436,
+      11.07,
+      23.4,
+      41.4
+    ]
   },
   {
     "name": "Europium",
@@ -867,7 +1735,13 @@
     "atomic_radius": 185,
     "covalent_radius": 198,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      5.6704,
+      11.241,
+      24.92,
+      42.7
+    ]
   },
   {
     "name": "Gadolinium",
@@ -882,7 +1756,13 @@
     "atomic_radius": 180,
     "covalent_radius": 196,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      6.1501,
+      12.09,
+      20.63,
+      44.0
+    ]
   },
   {
     "name": "Terbium",
@@ -897,7 +1777,13 @@
     "atomic_radius": 175,
     "covalent_radius": 194,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      5.8638,
+      11.52,
+      21.91,
+      39.79
+    ]
   },
   {
     "name": "Dysprosium",
@@ -912,7 +1798,13 @@
     "atomic_radius": 175,
     "covalent_radius": 192,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      5.9389,
+      11.67,
+      22.8,
+      41.47
+    ]
   },
   {
     "name": "Holmium",
@@ -927,7 +1819,13 @@
     "atomic_radius": 175,
     "covalent_radius": 192,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      6.0215,
+      11.8,
+      22.84,
+      42.5
+    ]
   },
   {
     "name": "Erbium",
@@ -942,7 +1840,13 @@
     "atomic_radius": 175,
     "covalent_radius": 189,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      6.1077,
+      11.93,
+      22.74,
+      42.7
+    ]
   },
   {
     "name": "Thulium",
@@ -957,7 +1861,13 @@
     "atomic_radius": 175,
     "covalent_radius": 190,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      6.18431,
+      12.05,
+      23.68,
+      42.7
+    ]
   },
   {
     "name": "Ytterbium",
@@ -972,7 +1882,13 @@
     "atomic_radius": 175,
     "covalent_radius": 187,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      6.25416,
+      12.1761,
+      25.05,
+      43.56
+    ]
   },
   {
     "name": "Lutetium",
@@ -987,7 +1903,14 @@
     "atomic_radius": 175,
     "covalent_radius": 187,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      5.4259,
+      13.9,
+      20.9594,
+      45.25,
+      66.8
+    ]
   },
   {
     "name": "Hafnium",
@@ -1002,7 +1925,13 @@
     "atomic_radius": 155,
     "covalent_radius": 175,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      6.82507,
+      14.9,
+      23.3,
+      33.33
+    ]
   },
   {
     "name": "Tantalum",
@@ -1017,7 +1946,10 @@
     "atomic_radius": 145,
     "covalent_radius": 170,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      7.5496
+    ]
   },
   {
     "name": "Tungsten",
@@ -1032,7 +1964,10 @@
     "atomic_radius": 135,
     "covalent_radius": 162,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      7.864
+    ]
   },
   {
     "name": "Rhenium",
@@ -1047,7 +1982,10 @@
     "atomic_radius": 135,
     "covalent_radius": 151,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      7.8335
+    ]
   },
   {
     "name": "Osmium",
@@ -1062,7 +2000,10 @@
     "atomic_radius": 130,
     "covalent_radius": 144,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      8.4382
+    ]
   },
   {
     "name": "Iridium",
@@ -1077,7 +2018,10 @@
     "atomic_radius": 135,
     "covalent_radius": 141,
     "van_der_waals_radius": -1,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      8.967
+    ]
   },
   {
     "name": "Platinum",
@@ -1092,7 +2036,12 @@
     "atomic_radius": 135,
     "covalent_radius": 136,
     "van_der_waals_radius": 175,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      8.9587,
+      18.563,
+      28.0
+    ]
   },
   {
     "name": "Gold",
@@ -1107,7 +2056,12 @@
     "atomic_radius": 135,
     "covalent_radius": 136,
     "van_der_waals_radius": 166,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      9.2255,
+      20.5,
+      20.0
+    ]
   },
   {
     "name": "Thallium",
@@ -1122,7 +2076,12 @@
     "atomic_radius": 190,
     "covalent_radius": 145,
     "van_der_waals_radius": 196,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      10.4375,
+      18.756,
+      34.2
+    ]
   },
   {
     "name": "Mercury",
@@ -1137,7 +2096,12 @@
     "atomic_radius": 150,
     "covalent_radius": 132,
     "van_der_waals_radius": 155,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      6.1082,
+      20.428,
+      29.83
+    ]
   },
   {
     "name": "Lead",
@@ -1152,7 +2116,14 @@
     "atomic_radius": 180,
     "covalent_radius": 146,
     "van_der_waals_radius": 202,
-    "half_life": -1
+    "half_life": -1,
+    "ionization_energy": [
+      7.41666,
+      15.0322,
+      31.9373,
+      42.32,
+      68.8
+    ]
   },
   {
     "name": "Bismuth",
@@ -1167,7 +2138,15 @@
     "atomic_radius": 160,
     "covalent_radius": 148,
     "van_der_waals_radius": -1,
-    "half_life": 1.91019
+    "half_life": 1.91019,
+    "ionization_energy": [
+      7.2856,
+      16.69,
+      25.56,
+      45.3,
+      56.0,
+      88.3
+    ]
   },
   {
     "name": "Polonium",
@@ -1182,7 +2161,10 @@
     "atomic_radius": 190,
     "covalent_radius": 140,
     "van_der_waals_radius": -1,
-    "half_life": 102.0
+    "half_life": 102.0,
+    "ionization_energy": [
+      8.417
+    ]
   },
   {
     "name": "Astatine",
@@ -1197,7 +2179,10 @@
     "atomic_radius": 127,
     "covalent_radius": 150,
     "van_der_waals_radius": -1,
-    "half_life": 0.0009246575342465753
+    "half_life": 0.0009246575342465753,
+    "ionization_energy": [
+      9.31751
+    ]
   },
   {
     "name": "Radon",
@@ -1212,7 +2197,10 @@
     "atomic_radius": 120,
     "covalent_radius": 150,
     "van_der_waals_radius": -1,
-    "half_life": 0.01047945205479452
+    "half_life": 0.01047945205479452,
+    "ionization_energy": [
+      10.7485
+    ]
   },
   {
     "name": "Astatine",
@@ -1227,7 +2215,10 @@
     "atomic_radius": 127,
     "covalent_radius": 150,
     "van_der_waals_radius": -1,
-    "half_life": 0.0009246575342465753
+    "half_life": 0.0009246575342465753,
+    "ionization_energy": [
+      4.0727
+    ]
   },
   {
     "name": "Astatine",
@@ -1242,7 +2233,11 @@
     "atomic_radius": 127,
     "covalent_radius": 150,
     "van_der_waals_radius": -1,
-    "half_life": 0.0009246575342465753
+    "half_life": 0.0009246575342465753,
+    "ionization_energy": [
+      5.2784,
+      10.14716
+    ]
   },
   {
     "name": "Radon",
@@ -1257,7 +2252,11 @@
     "atomic_radius": 120,
     "covalent_radius": 150,
     "van_der_waals_radius": -1,
-    "half_life": 0.01047945205479452
+    "half_life": 0.01047945205479452,
+    "ionization_energy": [
+      5.17,
+      12.1
+    ]
   },
   {
     "name": "Radon",
@@ -1272,7 +2271,13 @@
     "atomic_radius": 120,
     "covalent_radius": 150,
     "van_der_waals_radius": -1,
-    "half_life": 0.01047945205479452
+    "half_life": 0.01047945205479452,
+    "ionization_energy": [
+      6.3067,
+      11.5,
+      20.0,
+      28.8
+    ]
   },
   {
     "name": "Astatine",
@@ -1287,7 +2292,10 @@
     "atomic_radius": 127,
     "covalent_radius": 150,
     "van_der_waals_radius": -1,
-    "half_life": 0.0009246575342465753
+    "half_life": 0.0009246575342465753,
+    "ionization_energy": [
+      5.89
+    ]
   },
   {
     "name": "Radon",
@@ -1302,7 +2310,10 @@
     "atomic_radius": 120,
     "covalent_radius": 150,
     "van_der_waals_radius": -1,
-    "half_life": 0.01047945205479452
+    "half_life": 0.01047945205479452,
+    "ionization_energy": [
+      6.19405
+    ]
   },
   {
     "name": "Astatine",
@@ -1317,7 +2328,10 @@
     "atomic_radius": 127,
     "covalent_radius": 150,
     "van_der_waals_radius": -1,
-    "half_life": 0.0009246575342465753
+    "half_life": 0.0009246575342465753,
+    "ionization_energy": [
+      6.2657
+    ]
   },
   {
     "name": "Radon",
@@ -1332,7 +2346,10 @@
     "atomic_radius": 120,
     "covalent_radius": 150,
     "van_der_waals_radius": -1,
-    "half_life": 0.01047945205479452
+    "half_life": 0.01047945205479452,
+    "ionization_energy": [
+      6.0262
+    ]
   },
   {
     "name": "Francium",
@@ -1347,7 +2364,10 @@
     "atomic_radius": -1,
     "covalent_radius": 260,
     "van_der_waals_radius": -1,
-    "half_life": 4.1856925418569256e-05
+    "half_life": 4.1856925418569256e-05,
+    "ionization_energy": [
+      5.9738
+    ]
   },
   {
     "name": "Radium",
@@ -1362,7 +2382,10 @@
     "atomic_radius": 215,
     "covalent_radius": 221,
     "van_der_waals_radius": -1,
-    "half_life": 16.0
+    "half_life": 16.0,
+    "ionization_energy": [
+      5.9915
+    ]
   },
   {
     "name": "Actinium",
@@ -1377,7 +2400,10 @@
     "atomic_radius": 195,
     "covalent_radius": 215,
     "van_der_waals_radius": -1,
-    "half_life": 21.8
+    "half_life": 21.8,
+    "ionization_energy": [
+      6.1979
+    ]
   },
   {
     "name": "Thorium",
@@ -1392,7 +2418,10 @@
     "atomic_radius": 180,
     "covalent_radius": 206,
     "van_der_waals_radius": -1,
-    "half_life": 14100000.0
+    "half_life": 14100000.0,
+    "ionization_energy": [
+      6.2817
+    ]
   },
   {
     "name": "Protactinium",
@@ -1407,7 +2436,10 @@
     "atomic_radius": 180,
     "covalent_radius": 200,
     "van_der_waals_radius": -1,
-    "half_life": 32790.0
+    "half_life": 32790.0,
+    "ionization_energy": [
+      6.42
+    ]
   },
   {
     "name": "Uranium",
@@ -1422,7 +2454,10 @@
     "atomic_radius": 175,
     "covalent_radius": 196,
     "van_der_waals_radius": 186,
-    "half_life": 4470000.0
+    "half_life": 4470000.0,
+    "ionization_energy": [
+      6.5
+    ]
   },
   {
     "name": "Neptunium",
@@ -1437,7 +2472,10 @@
     "atomic_radius": 175,
     "covalent_radius": 190,
     "van_der_waals_radius": -1,
-    "half_life": 2150000.0
+    "half_life": 2150000.0,
+    "ionization_energy": [
+      6.58
+    ]
   },
   {
     "name": "Plutonium",
@@ -1452,7 +2490,10 @@
     "atomic_radius": 175,
     "covalent_radius": 187,
     "van_der_waals_radius": -1,
-    "half_life": 79000000.0
+    "half_life": 79000000.0,
+    "ionization_energy": [
+      6.65
+    ]
   },
   {
     "name": "Americium",
@@ -1467,7 +2508,10 @@
     "atomic_radius": 175,
     "covalent_radius": 180,
     "van_der_waals_radius": -1,
-    "half_life": 73.8
+    "half_life": 73.8,
+    "ionization_energy": [
+      4.9
+    ]
   },
   {
     "name": "Curium",
@@ -1482,7 +2526,10 @@
     "atomic_radius": -1,
     "covalent_radius": 169,
     "van_der_waals_radius": -1,
-    "half_life": 15600000.0
+    "half_life": 15600000.0,
+    "ionization_energy": [
+      6.0
+    ]
   },
   {
     "name": "Berkelium",
@@ -1497,7 +2544,8 @@
     "atomic_radius": -1,
     "covalent_radius": -1,
     "van_der_waals_radius": -1,
-    "half_life": 13.8
+    "half_life": 13.8,
+    "ionization_energy": []
   },
   {
     "name": "Californium",
@@ -1512,7 +2560,8 @@
     "atomic_radius": -1,
     "covalent_radius": -1,
     "van_der_waals_radius": -1,
-    "half_life": 9.0
+    "half_life": 9.0,
+    "ionization_energy": []
   },
   {
     "name": "Einsteinium",
@@ -1527,7 +2576,8 @@
     "atomic_radius": -1,
     "covalent_radius": -1,
     "van_der_waals_radius": -1,
-    "half_life": 1.2931506849315069
+    "half_life": 1.2931506849315069,
+    "ionization_energy": []
   },
   {
     "name": "Fermium",
@@ -1542,7 +2592,8 @@
     "atomic_radius": -1,
     "covalent_radius": -1,
     "van_der_waals_radius": -1,
-    "half_life": 0.273972602739726
+    "half_life": 0.273972602739726,
+    "ionization_energy": []
   },
   {
     "name": "Mendelevium",
@@ -1557,7 +2608,8 @@
     "atomic_radius": -1,
     "covalent_radius": -1,
     "van_der_waals_radius": -1,
-    "half_life": 0.1410958904109589
+    "half_life": 0.1410958904109589,
+    "ionization_energy": []
   },
   {
     "name": "Nobelium",
@@ -1572,7 +2624,8 @@
     "atomic_radius": -1,
     "covalent_radius": -1,
     "van_der_waals_radius": -1,
-    "half_life": 0.0003234398782343988
+    "half_life": 0.0003234398782343988,
+    "ionization_energy": []
   },
   {
     "name": "Lawrencium",
@@ -1587,7 +2640,8 @@
     "atomic_radius": -1,
     "covalent_radius": -1,
     "van_der_waals_radius": -1,
-    "half_life": 0.001141552511415525
+    "half_life": 0.001141552511415525,
+    "ionization_energy": []
   },
   {
     "name": "Rutherfordium",
@@ -1602,7 +2656,8 @@
     "atomic_radius": -1,
     "covalent_radius": -1,
     "van_der_waals_radius": -1,
-    "half_life": 0.0014840182648401827
+    "half_life": 0.0014840182648401827,
+    "ionization_energy": []
   },
   {
     "name": "Dubnium",
@@ -1617,7 +2672,8 @@
     "atomic_radius": -1,
     "covalent_radius": -1,
     "van_der_waals_radius": -1,
-    "half_life": 0.0006392694063926941
+    "half_life": 0.0006392694063926941,
+    "ionization_energy": []
   },
   {
     "name": "Seaborgium",
@@ -1632,7 +2688,8 @@
     "atomic_radius": -1,
     "covalent_radius": -1,
     "van_der_waals_radius": -1,
-    "half_life": 0.00022831050228310504
+    "half_life": 0.00022831050228310504,
+    "ionization_energy": []
   },
   {
     "name": "Bohrium",
@@ -1647,7 +2704,8 @@
     "atomic_radius": -1,
     "covalent_radius": -1,
     "van_der_waals_radius": -1,
-    "half_life": 0.00017123287671232877
+    "half_life": 0.00017123287671232877,
+    "ionization_energy": []
   },
   {
     "name": "Hassium",
@@ -1662,7 +2720,8 @@
     "atomic_radius": -1,
     "covalent_radius": -1,
     "van_der_waals_radius": -1,
-    "half_life": 0.00012747336377473363
+    "half_life": 0.00012747336377473363,
+    "ionization_energy": []
   },
   {
     "name": "Meitnerium",
@@ -1677,6 +2736,167 @@
     "atomic_radius": -1,
     "covalent_radius": -1,
     "van_der_waals_radius": -1,
-    "half_life": 5.707762557077626e-05
+    "half_life": 5.707762557077626e-05,
+    "ionization_energy": []
+  },
+  {
+    "name": "Darmstadtium",
+    "symbol": "Ds",
+    "atomic_number": 110,
+    "atomic_weight": 281.0,
+    "density": -1,
+    "molar_volume": -1,
+    "valence": -1,
+    "electronegativity": -1,
+    "electron_affinity": "unknown",
+    "atomic_radius": -1,
+    "covalent_radius": -1,
+    "van_der_waals_radius": -1,
+    "half_life": 7.610350076103501e-06,
+    "ionization_energy": []
+  },
+  {
+    "name": "Roentgenium",
+    "symbol": "Rg",
+    "atomic_number": 111,
+    "atomic_weight": 280.0,
+    "density": -1,
+    "molar_volume": -1,
+    "valence": -1,
+    "electronegativity": -1,
+    "electron_affinity": -1,
+    "atomic_radius": -1,
+    "covalent_radius": -1,
+    "van_der_waals_radius": -1,
+    "half_life": 1.9025875190258754e-05,
+    "ionization_energy": []
+  },
+  {
+    "name": "Copernicium",
+    "symbol": "Cn",
+    "atomic_number": 112,
+    "atomic_weight": 285.0,
+    "density": -1,
+    "molar_volume": -1,
+    "valence": -1,
+    "electronegativity": -1,
+    "electron_affinity": -1,
+    "atomic_radius": -1,
+    "covalent_radius": -1,
+    "van_der_waals_radius": -1,
+    "half_life": 7.610350076103501e-05,
+    "ionization_energy": []
+  },
+  {
+    "name": "Nihonium",
+    "symbol": "Nh",
+    "atomic_number": 113,
+    "atomic_weight": 284.0,
+    "density": -1,
+    "molar_volume": -1,
+    "valence": -1,
+    "electronegativity": -1,
+    "electron_affinity": "unknown",
+    "atomic_radius": -1,
+    "covalent_radius": -1,
+    "van_der_waals_radius": -1,
+    "half_life": 3.805175038051751e-05,
+    "ionization_energy": []
+  },
+  {
+    "name": "Flerovium",
+    "symbol": "Fl",
+    "atomic_number": 114,
+    "atomic_weight": 289.0,
+    "density": -1,
+    "molar_volume": -1,
+    "valence": -1,
+    "electronegativity": -1,
+    "electron_affinity": -1,
+    "atomic_radius": -1,
+    "covalent_radius": -1,
+    "van_der_waals_radius": -1,
+    "half_life": 2.536783358701167e-06,
+    "ionization_energy": []
+  },
+  {
+    "name": "Flerovium",
+    "symbol": "Fl",
+    "atomic_number": 114,
+    "atomic_weight": 289.0,
+    "density": -1,
+    "molar_volume": -1,
+    "valence": -1,
+    "electronegativity": -1,
+    "electron_affinity": -1,
+    "atomic_radius": -1,
+    "covalent_radius": -1,
+    "van_der_waals_radius": -1,
+    "half_life": 2.536783358701167e-06,
+    "ionization_energy": []
+  },
+  {
+    "name": "Moscovium",
+    "symbol": "Mc",
+    "atomic_number": 115,
+    "atomic_weight": 288.0,
+    "density": -1,
+    "molar_volume": -1,
+    "valence": -1,
+    "electronegativity": -1,
+    "electron_affinity": -1,
+    "atomic_radius": -1,
+    "covalent_radius": -1,
+    "van_der_waals_radius": -1,
+    "half_life": 1.902587519025875e-06,
+    "ionization_energy": []
+  },
+  {
+    "name": "Livermorium",
+    "symbol": "Lv",
+    "atomic_number": 116,
+    "atomic_weight": 293.0,
+    "density": -1,
+    "molar_volume": -1,
+    "valence": -1,
+    "electronegativity": -1,
+    "electron_affinity": "unknown",
+    "atomic_radius": -1,
+    "covalent_radius": -1,
+    "van_der_waals_radius": -1,
+    "half_life": 3.80517503805175e-06,
+    "ionization_energy": []
+  },
+  {
+    "name": "Tennessine",
+    "symbol": "Ts",
+    "atomic_number": 117,
+    "atomic_weight": 294.0,
+    "density": -1,
+    "molar_volume": -1,
+    "valence": -1,
+    "electronegativity": -1,
+    "electron_affinity": -1,
+    "atomic_radius": -1,
+    "covalent_radius": -1,
+    "van_der_waals_radius": -1,
+    "half_life": 1.5854895991882293e-06,
+    "ionization_energy": []
+  },
+  {
+    "name": "Oganesson",
+    "symbol": "Og",
+    "atomic_number": 118,
+    "atomic_weight": 294.0,
+    "density": -1,
+    "molar_volume": -1,
+    "valence": -1,
+    "electronegativity": -1,
+    "electron_affinity": -1,
+    "atomic_radius": -1,
+    "covalent_radius": -1,
+    "van_der_waals_radius": -1,
+    "half_life": 1.5854895991882294e-07,
+    "ionization_energy": []
   }
-  ]
+]
