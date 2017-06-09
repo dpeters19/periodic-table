@@ -23,6 +23,7 @@ def build_elements():
         object_elements.append(Atom.Atom(item['name'], item['symbol'], item['atomic_number'], item['atomic_weight'],
                                          item['density'], item['molar_volume'], item['valence'],
                                          item['electronegativity'], item['electron_affinity'], item['atomic_radius'],
-                                         item['covalent_radius'], item['van_der_waals_radius'], item['half_life']))
+                                         item['covalent_radius'], item['van_der_waals_radius'], item['half_life'], 
+                                         item['ionization_energy']))
 
     return object_elements
